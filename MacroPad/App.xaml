@@ -1,0 +1,7 @@
+<Application x:Class="MacroPad.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Sin StartupUri: la ventana se crea desde App.xaml.cs, después de comprobar que no hay otra copia abierta -->
+    <Application.Resources>
+    </Application.Resources>
+</Application>

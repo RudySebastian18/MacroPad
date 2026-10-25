@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Resultados de compilación y publicación
+[Bb]in/
+[Oo]bj/
+publish/
+installer-output/
+
+# Paquetes y archivos temporales
+packages/
+*.nupkg
+*.log
+*.tmp
+TestResults/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Configuración personal de MacroPad (por si se copia desde AppData)
+config.json
+config.json.bak
